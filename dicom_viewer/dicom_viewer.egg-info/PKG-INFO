@@ -1,0 +1,8 @@
+Metadata-Version: 2.2
+Name: dicom_viewer
+Version: 0.1
+Requires-Dist: PyQt6
+Requires-Dist: pydicom
+Requires-Dist: opencv-python
+Requires-Dist: numpy
+Dynamic: requires-dist
